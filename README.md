@@ -14,9 +14,9 @@ This is not just a code repo—it's my digital notebook. You’ll find practical
 
 | Stage | Topic                              | Status     |
 | ----- | ---------------------------------- | ---------- |
-| 1     | Python Refresher                   | ✅ Done     |
-| 2     | NumPy Basics                       | ✅ Started  |
-| 3     | Pandas                             | 🔜 Soon    |
+| 1     | Python Refresher                   | ✅ Done    |
+| 2     | NumPy Basics                       | ✅ Done    |
+| 3     | Pandas                             | ✅ Started |
 | 4     | Matplotlib & Seaborn               | 🔜 Soon    |
 | 5     | Scikit-Learn                       | 🔜 Soon    |
 | 6     | Linear Regression                  | 🔜 Soon    |
